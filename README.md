@@ -11,4 +11,5 @@
 * There was a total of 93,420 unpaid reviews
 * The percentage of 5 star ratings of unpaid reviews is 51.62%
 
+### Summary
 * Looking at possible bias is it easy to say there was no bias from the percentage of 5 star reviews compared to total reviews. Looking further into the data we see there were many more unpaid reviews which skews the data. 
