@@ -5,6 +5,8 @@
 
 
 ### Results
+![Results](./Resources/Results.png)
+
 * There were a total of 467 paid reviews
 * The percentage of 5 ratings of paid reviews is 39.82%
 
